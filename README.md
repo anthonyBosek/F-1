@@ -3,5 +3,4 @@ Formula One (F1) API
 
 
 ## Contributors
-
-Anthony B.
+[Anthony B.](github.com/anthonyBosek)
