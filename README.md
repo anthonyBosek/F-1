@@ -8,8 +8,6 @@ Formula One API is built using the following technologies:
 
 - Python
 - Flask
-- SQLAlchemy
-- SQLite
 - Marshmallow
 - Flask-RESTful
 
