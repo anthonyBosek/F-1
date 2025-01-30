@@ -1,6 +1,6 @@
 # Formula One API
 
-This is a simple API that provides information about Formula One racing, teams and drivers.
+This API provides information about Formula One racing, teams and drivers. It is built on a flask python server.
 
 ## Technologies
 
