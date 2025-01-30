@@ -13,4 +13,4 @@ Formula One API is built using the following technologies:
 
 ## Contributors
 
-[Anthony B.](github.com/anthonyBosek)
+[Anthony Bosek](github.com/anthonyBosek)
