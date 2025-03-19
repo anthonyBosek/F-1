@@ -1,15 +1,6 @@
 # Formula One API
 
-This API provides information about Formula One racing, teams and drivers. It is built on a flask python server.
-
-## Technologies
-
-Formula One API is built using the following technologies:
-
-- Python
-- Flask
-- Marshmallow
-- Flask-RESTful
+This is a Python API for accessing Formula One data. It provides a simple and easy-to-use interface for retrieving information about drivers.
 
 ## Contributors
 
