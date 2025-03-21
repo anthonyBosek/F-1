@@ -4,4 +4,4 @@ This is a Python API for accessing Formula One data. It provides a simple and ea
 
 ## Contributors
 
-[Anthony Bosek](github.com/anthonyBosek)
+[Anthony Bosek](https://github.com/anthonyBosek)
