@@ -1,11 +1,13 @@
 # 
 if __name__ == "__main__":
-    cap1 = 'Bangalore'
-    cap2 = 'Londres'
-    cap3 = 'Luanda'
-    cap1 = cap2
-    cap2 = cap3
-    cap3 = cap2
-    cap2 += " " + cap1
-    print(cap2) # Luanda Londres
+    str1 = 'one'
+    str2 = 'two'
+    str3 = 'three'
+    str1 = str2
+    str2 = str3
+    str3 = str2
+    str2 += " " + str1
+    print(str2) # three two
+    print(str3) # three
+    print(str1) # two
 # 
